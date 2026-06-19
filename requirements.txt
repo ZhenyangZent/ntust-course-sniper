@@ -1,0 +1,6 @@
+discord.py
+aiohttp
+motor
+pymongo
+aiomqtt
+python-dotenv
